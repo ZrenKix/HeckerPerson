@@ -2,12 +2,12 @@
 
 
 ## Installation
-A `.env` file is required with `TOKEN` variable to run the bot.
+A `.env` file in root directory is required with `TOKEN` variable to run the bot.
 
     TOKEN=[YOUR_BOT_TOKEN]
 
-Node dependencies installation:
+Node dependencies installation: (Make sure yarn is installed and working first)
 
-    npm install
+    yarn install
 
 Run `yarn start` to start the bot.
